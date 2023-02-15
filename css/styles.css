@@ -9,7 +9,7 @@
 body{
     height: 100vh;
     background-color: rgba(0, 0, 0, 0.432);
-    background-image: url(../img/brazil-botucatu-clouds-nuvens.jpg);
+    background-image: url(./img/brazil-botucatu-clouds-nuvens.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
